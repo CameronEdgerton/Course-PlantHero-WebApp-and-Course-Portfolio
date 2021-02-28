@@ -4,6 +4,4 @@ This course involved a group project where we had to build a website and utilise
 
 My team decided to build a webtool that made it easy for users to identify the types of waterwise plants that would thrive in their yard (based on light needs, soil type, size limitations etc).
 
-I have uploaded some of the views that I worked on. 
-
 The portfolio is a reflection of the course.
